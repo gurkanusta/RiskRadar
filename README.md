@@ -26,9 +26,7 @@ RiskRadar is a security-focused ASP.NET Core API that detects suspicious login a
    - `Update-Database`
 3. Run the API and open Swagger
 
-## Default Admin
-- Email: admin@riskradar.com
-- Password: Admin1234!
+
 
 ## Endpoints (high-level)
 - Auth: `/api/auth/register`, `/api/auth/login`, `/api/auth/refresh`, `/api/auth/logout`
